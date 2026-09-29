@@ -1,0 +1,18 @@
+{
+  "name": "gakk-3d-particle-logo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive 3D Particle Logo Header for Gakk using Three.js with 5,000 dots and fluid physics",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "threejs",
+    "webgl",
+    "particles",
+    "gakk",
+    "canvas"
+  ],
+  "author": "Gakk",
+  "license": "MIT"
+}
